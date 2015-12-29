@@ -8,5 +8,8 @@
   "moduleType": [],
   "license": "MIT",
   "homepage": "https://github.com/benbalter/add-to-org-demo",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
 }
