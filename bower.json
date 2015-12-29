@@ -1,0 +1,12 @@
+{
+  "name": "add-to-org-demo",
+  "authors": [
+    "Ben Balter <ben.balter@github.com>"
+  ],
+  "description": "A demo of how to implement the add-to-org gem",
+  "main": "config.ru",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/benbalter/add-to-org-demo",
+  "private": true
+}
