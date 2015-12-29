@@ -10,3 +10,7 @@
 4. Deploy the app following [the add-to-org configuration instructions](https://github.com/benbalter/add-to-org#setup) to create the necessary credentials and set the proper environmental variables
 
 For more information, see the [add-to-org documentation](https://github.com/benbalter/add-to-org).
+
+## Running tests
+
+This demo app includes an example test to confirm that your validation method works. The test lives in the `/spec` folder and will need to be customized to your app. To run the tests, run `script/cibuild` 
