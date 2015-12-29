@@ -7,7 +7,7 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    add-to-org (2.2.1)
+    add-to-org (3.0.1)
       dotenv (~> 2.0)
       octokit (~> 4.0)
       rack-ssl-enforcer (~> 0.2)
@@ -78,7 +78,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  add-to-org (~> 2.2)
+  add-to-org (~> 3.0)
   rack-test
   rake
   rspec

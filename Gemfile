@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby File.read(".ruby-version").strip
 
-gem 'add-to-org', "~> 2.2"
+gem 'add-to-org', "~> 3.0"
 gem 'rake'
 
 group :development, :test do
