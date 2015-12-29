@@ -13,4 +13,4 @@ For more information, see the [add-to-org documentation](https://github.com/benb
 
 ## Running tests
 
-This demo app includes an example test to confirm that your validation method works. The test lives in the `/spec` folder and will need to be customized to your app. To run the tests, run `script/cibuild` 
+This demo app includes an example test to confirm that your validation method works. The test lives in the `/spec` folder and will need to be customized to your app. To run the tests, run `script/cibuild`.
