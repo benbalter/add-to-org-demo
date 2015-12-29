@@ -1,11 +1,13 @@
 require 'add-to-org'
 
 # Optional: Uncomment the final line to use your own views folder
-# (e.g., for serving custom ERB templates from `./views`):
+# (e.g., for serving custom ERB templates from `./views`). For more
+# information see https://github.com/benbalter/add-to-org#customizing-views.
 # AddToOrg.views_dir  File.expand_path("./views", File.dirname(__FILE__))
 
 # Optional: Uncomment the final line to use your own public folder
-# (e.g., for static assets from `./public`):
+# (e.g., for static assets from `./public`). For more information see
+# https://github.com/benbalter/add-to-org#customizing-static-assets.
 # AddToOrg.public_dir = File.expand_path("./public", File.dirname(__FILE__))
 
 # Required: Define your custom validation logic here. You can add additional gems
