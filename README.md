@@ -13,6 +13,14 @@
 
 For more information, see the [add-to-org documentation](https://github.com/benbalter/add-to-org).
 
+## Developing locally
+
+To set up your local development environment, clone the repo and run `script/bootstrap`. You'll need a working Ruby install.
+
+## Running the server
+
+The app is designed to be deployed to places like Heroku or CloudFoundry. To run the server locally, run `script/server`.
+
 ## Running tests
 
-This demo app includes an example test to confirm that your validation method works. The test lives in the `/spec` folder and will need to be customized to your app. To run the tests, run `script/cibuild`.
+This demo app includes an example test to confirm that your validation method works. The test lives in the `/spec` folder and will need to be customized to your app. To run the tests, run `script/cibuild` or configure Travis CI to test your repo with the included `.travis.yml` file.
