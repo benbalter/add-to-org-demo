@@ -2,7 +2,7 @@
 
 *A demo app implementing the add-to-org Ruby gem*
 
-[![Build Status](https://travis-ci.org/benbalter/add-to-org.svg?branch=master)](https://travis-ci.org/benbalter/add-to-org)
+[![Build Status](https://travis-ci.org/benbalter/add-to-org-demo.svg?branch=master)](https://travis-ci.org/benbalter/add-to-org-demo)
 
 ## Usage:
 
