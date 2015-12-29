@@ -2,6 +2,8 @@
 
 *A demo app implementing the add-to-org Ruby gem*
 
+[![Build Status](https://travis-ci.org/benbalter/add-to-org.svg?branch=master)](https://travis-ci.org/benbalter/add-to-org)
+
 ## Usage:
 
 1. Fork this repository
