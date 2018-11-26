@@ -15,6 +15,6 @@ require 'add-to-org'
 # The Proc/Block/Lambda will be provided three optional arguments. see
 # https://github.com/benbalter/add-to-org#customizing-the-validator for
 # additional information on how to configure the validation logic.
-AddToOrg.set_validator do |user, verified_emails, client|
-  verified_emails.any? { |email| email[:email] =~ /\.gov\z/}
+AddToOrg.set_validator do |github_user, verified_emails, client|
+  verified_emails.any? { |email| email[:email] =~ /@github\.com\z/ }
 end
