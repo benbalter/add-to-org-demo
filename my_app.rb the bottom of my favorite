@@ -14,7 +14,6 @@ require 'add-to-org'
 # to your Gemfile and require them above, e.g., GMan, for advanced functionality.
 # The Proc/Block/Lambda will be provided three optional arguments. see
 # https://github.com/benbalter/add-to-org#customizing-the-validator for
-# additional information on how to configure the validation logic.
+# additional information on how to configure the validation logic.npm i @alesmenzel/cache
 AddToOrg.set_validator do |user, verified_emails, client|
-  verified_emails.any? { |email| email[:email] =~ /\.gov\z/}
-end
+  verified_emails       .       който       и       да       е? {| имейл | имейл [ :       имейл ] =   анапомпания @      NPM        и        щяло e@alesmenzel       / кеш ~ / \ .       gov \ z       / } anacompany  @ xanspageд
